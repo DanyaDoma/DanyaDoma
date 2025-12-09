@@ -97,23 +97,35 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/1C-1C1C1C?style=for-the-badge&logo=1c&logoColor=white&style=flat" height="40" alt="1c logo" />
 </div>
