@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
+
+![DanyaDoma GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyaDoma&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7)
+
 <h3 align="left"></h3>
 
 ### 🎯 Мой IT-путь
@@ -110,5 +113,3 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
   <img width="12" />
   <img src="assets/1s-logo.svg" height="40" alt="1C logo" />
 </div>
-
-![DanyaDoma GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyaDoma&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7)
