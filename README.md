@@ -89,9 +89,6 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -113,3 +110,5 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
   <img width="12" />
   <img src="assets/1s-logo.svg" height="40" alt="1C logo" />
 </div>
+
+![DanyaDoma GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyaDoma&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7)
