@@ -109,10 +109,6 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="assets/1s-logo.svg" height="40" alt="1C logo" />
