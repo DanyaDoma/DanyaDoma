@@ -121,5 +121,5 @@ Python, C#, JavaScript, C++, SQL, PHP, 1C.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/1C-1C1C1C?style=for-the-badge&logo=1c&logoColor=white&style=flat" height="40" alt="1c logo" />
+  <img src="assets/1s-logo.svg" height="40" alt="1C logo" />
 </div>
