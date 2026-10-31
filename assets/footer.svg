@@ -1,31 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="footTitle footDesc">
-  <title id="footTitle">DanyaDoma — подпись</title>
-  <desc id="footDesc">Собрано вручную, 2026.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="footTitle footDesc">
+  <title id="footTitle">DanyaDoma — собрано вручную, 2026</title>
+  <desc id="footDesc">Подпись профиля с анимированной линией пульса: сигнал, который начался в hero, возвращается здесь.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#121924"/>
-      <stop offset="1" stop-color="#0C1016"/>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101823"/>
+      <stop offset="1" stop-color="#0A0F15"/>
     </linearGradient>
+    <filter id="fgrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.04"/></feComponentTransfer>
+    </filter>
     <style>
       .mono { font-family: 'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace; }
       .sans { font-family: Bahnschrift, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
-      .beat { stroke-dasharray: 240; animation: beat 7s linear infinite; }
-      @keyframes beat { from { stroke-dashoffset: 240; } to { stroke-dashoffset: -240; } }
-      @media (prefers-reduced-motion: reduce) { .beat { animation: none; } }
+      .ecg { stroke-dasharray: 70 900; animation: ecg 4.6s linear infinite; }
+      @keyframes ecg { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -970; } }
+      @media (prefers-reduced-motion: reduce) { .ecg { animation: none; stroke-dasharray: none; opacity: 0.5; } }
     </style>
   </defs>
 
-  <rect width="1200" height="140" rx="24" fill="url(#bg)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="138.5" rx="23.5" fill="none" stroke="#2A3442" stroke-width="1.5"/>
+  <rect width="1000" height="150" rx="18" fill="url(#fbg)"/>
+  <rect width="1000" height="150" rx="18" filter="url(#fgrain)" opacity="0.4"/>
+  <rect x="0.75" y="0.75" width="998.5" height="148.5" rx="17.5" fill="none" stroke="#293443" stroke-width="1.5"/>
 
-  <text x="48" y="70" class="sans" font-size="28" font-weight="600" letter-spacing="1" fill="#F3EFE7">DANYA DOMA<tspan fill="#E0873A">.</tspan></text>
-  <text x="48" y="96" class="mono" font-size="11" fill="#6E7A8A">github.com/DanyaDoma</text>
+  <rect x="40" y="48" width="36" height="36" rx="10" fill="#141C26" stroke="#344154"/>
+  <text x="58" y="73" text-anchor="middle" class="mono" font-size="16" font-weight="700" fill="#E28A3C">D<tspan fill="#F4F0E8">.</tspan></text>
+  <text x="88" y="63" class="sans" font-size="19" font-weight="600" fill="#F4F0E8">DanyaDoma</text>
+  <text x="88" y="82" class="mono" font-size="11" letter-spacing="0.8" fill="#7F8A99">собрано вручную · 2026</text>
 
-  <text x="1152" y="70" text-anchor="end" class="mono" font-size="11" fill="#6E7A8A">собрано вручную</text>
-  <text x="1152" y="96" text-anchor="end" class="mono" font-size="11" fill="#E0873A">2026</text>
-
-  <line x1="360" y1="112" x2="1152" y2="112" stroke="#1F2834"/>
-  <path d="M360 112h140l10 0 8-18 8 36 8-26 8 8h80" fill="none" stroke="#E0873A" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
-  <line x1="640" y1="112" x2="1152" y2="112" stroke="#E0873A" stroke-width="1.2" stroke-dasharray="2 10" opacity="0.45"/>
-  <circle cx="360" cy="112" r="2.6" fill="#E0873A"/>
+  <path d="M470 75h70l10-20 8 40 12-30 8 16 10-6h342" fill="none" stroke="#26313F" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M470 75h70l10-20 8 40 12-30 8 16 10-6h342" fill="none" stroke="#E28A3C" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" class="ecg"/>
+  <circle cx="470" cy="75" r="2.4" fill="#E28A3C" opacity="0.7"/>
+  <text x="946" y="122" text-anchor="end" class="mono" font-size="10.5" letter-spacing="1.2" fill="#5F6B7A">СПАСИБО, ЧТО ЗАШЁЛ</text>
+  <text x="470" y="122" class="mono" font-size="10.5" letter-spacing="1.2" fill="#5F6B7A">СИГНАЛ / 001</text>
 </svg>

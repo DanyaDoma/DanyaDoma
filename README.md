@@ -1,24 +1,29 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="DanyaDoma — инженерный журнал. Данила, разработчик: C#, .NET, WPF, MySQL">
+  <img src="assets/hero.svg?v=2" width="100%" alt="DanyaDoma — инженерный журнал. Данила, разработчик: C#, .NET, WPF, MySQL">
+</div>
+
+<div align="center">
+  <img src="assets/ticker.svg?v=2" width="100%" alt="Пишу на C#, собираю WPF, проверяю тестами, чиню базы, не верю на слово, документирую">
 </div>
 
 <p align="center">
   <a href="#сейчас"><kbd>сейчас</kbd></a>&nbsp;
   <a href="#избранное"><kbd>избранное</kbd></a>&nbsp;
+  <a href="#лаборатория"><kbd>лаборатория</kbd></a>&nbsp;
+  <a href="#журнал-сборки"><kbd>журнал</kbd></a>&nbsp;
   <a href="#стек"><kbd>стек</kbd></a>&nbsp;
   <a href="#путь"><kbd>путь</kbd></a>&nbsp;
-  <a href="#дневник"><kbd>дневник</kbd></a>&nbsp;
   <a href="#контакты"><kbd>контакты</kbd></a>
 </p>
 
 ## Сейчас
 
-<img src="assets/now.svg" width="100%" alt="Сейчас: проект ООО «Обувь» на WPF, .NET 10 и MySQL 8. Фокус — C# и данные. Вне кода — моды и стратегии">
+<img src="assets/now.svg?v=2" width="100%" alt="Сейчас: проект ООО «Обувь» на WPF, .NET 10 и MySQL 8. Фокус — C# и данные. Вне кода — моды и стратегии">
 
 ## Избранное
 
 <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">
-  <img src="assets/project.svg" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
+  <img src="assets/project.svg?v=2" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
 </a>
 
 <p align="center">
@@ -27,13 +32,29 @@
   <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/tree/main/docs">документация</a>
 </p>
 
+## Лаборатория
+
+<img src="assets/lab.svg?v=2" width="100%" alt="Пять публичных UI-экспериментов: ProductCard, 3DTiles, IconTitle, LoginMenu, Shop-ModMenu — HTML, CSS, JavaScript">
+
+<p align="center">
+  <a href="https://github.com/DanyaDoma/ProductCard">ProductCard</a> ·
+  <a href="https://github.com/DanyaDoma/3DTiles">3DTiles</a> ·
+  <a href="https://github.com/DanyaDoma/IconTitle">IconTitle</a> ·
+  <a href="https://github.com/DanyaDoma/LoginMenu">LoginMenu</a> ·
+  <a href="https://github.com/DanyaDoma/Shop-ModMenu">Shop-ModMenu</a>
+</p>
+
+## Журнал сборки
+
+<img src="assets/terminal.svg?v=2" width="100%" alt="Терминал: сборка без ошибок, 28 из 28 тестов, импорт дампа MySQL и запуск WPF под ролью администратора">
+
 ## Стек
 
-<img src="assets/stack.svg" width="100%" alt="Рабочий набор: C#, .NET и WPF, MySQL, SQL, PostgreSQL, Python, JavaScript, C++, PHP, 1C, Git и Visual Studio, AHK">
+<img src="assets/stack.svg?v=2" width="100%" alt="Рабочий набор: C#, .NET и WPF, MySQL, SQL, PostgreSQL, Python, JavaScript, C++, PHP, 1C, Git, AHK">
 
 ## Путь
 
-<img src="assets/path.svg" width="100%" alt="Хронология: AHK в 2019, моды в 2021, код в 2022, C# в 2023, 1C в 2024, Практикум в 2025, WPF и MySQL в 2026">
+<img src="assets/path.svg?v=2" width="100%" alt="Хронология: AHK в 2019, моды в 2021, первый код в 2022, C# в 2023, 1C в 2024, Практикум в 2025, WPF и MySQL в 2026">
 
 ## Дневник
 
@@ -85,7 +106,7 @@
   <a href="https://github.com/DanyaDoma">GitHub</a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="DanyaDoma — собрано вручную, 2026">
+<img src="assets/footer.svg?v=2" width="100%" alt="DanyaDoma — собрано вручную, 2026">
 
 <details>
 <summary>Не нажимай</summary>
