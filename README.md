@@ -1,114 +1,97 @@
-<br clear="both">
-
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="assets/hero.svg" width="100%" alt="DanyaDoma — инженерный журнал. Данила, разработчик: C#, .NET, WPF, MySQL">
 </div>
 
-###
+<p align="center">
+  <a href="#сейчас"><kbd>сейчас</kbd></a>&nbsp;
+  <a href="#избранное"><kbd>избранное</kbd></a>&nbsp;
+  <a href="#стек"><kbd>стек</kbd></a>&nbsp;
+  <a href="#путь"><kbd>путь</kbd></a>&nbsp;
+  <a href="#дневник"><kbd>дневник</kbd></a>&nbsp;
+  <a href="#контакты"><kbd>контакты</kbd></a>
+</p>
 
-<h1 align="center">Привет👋</h1>
+## Сейчас
 
-###
-<div align="center">
-  <a href="https://www.youtube.com/@foreve4711" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/DanyaDoma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+<img src="assets/now.svg" width="100%" alt="Сейчас: проект ООО «Обувь» на WPF, .NET 10 и MySQL 8. Фокус — C# и данные. Вне кода — моды и стратегии">
 
-![DanyaDoma GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyaDoma&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7)
+## Избранное
 
-<h3 align="left"></h3>
+<a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">
+  <img src="assets/project.svg" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
+</a>
 
-### 🎯 Мой IT-путь
+<p align="center">
+  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">репозиторий</a> ·
+  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/blob/main/db/dump/shoe_store.sql">дамп базы</a> ·
+  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/tree/main/docs">документация</a>
+</p>
 
-### 📊 **Технологический стек в хронологии**
+## Стек
 
-```
-2019-2023  🎮 AHK • Макросы • Игровое ПО
-2021-н.в.  🛠 Моддинг • Локализация
-2023-н.в.  💻 Python • C# • JavaScript • SQL • PHP • C++
-2024-н.в.  📚 1C • Системная интеграция
-```
-#### 🚀 **Начало(2019-2023)**
-- 🎮 Разработка собственного ПО для гейминга;
-- 💻 Создание AHK-скриптов, макросов, вспомогательных утилит.
-- 💰 Продавал свои работы на торговых площадках, в частности на FunPay, т.к. в то время площадка только начинала форсится.
-#### 🛠️ **Разработка игровых модов (2021-н.в.)**
+<img src="assets/stack.svg" width="100%" alt="Рабочий набор: C#, .NET и WPF, MySQL, SQL, PostgreSQL, Python, JavaScript, C++, PHP, 1C, Git и Visual Studio, AHK">
 
-+ Русификация, адаптация и создание модов для игр:
+## Путь
 
+<img src="assets/path.svg" width="100%" alt="Хронология: AHK в 2019, моды в 2021, код в 2022, C# в 2023, 1C в 2024, Практикум в 2025, WPF и MySQL в 2026">
 
-| **Стратегии** | **Гранд-стратегии** | **Симуляторы** | **Другие жанры** |
-|:-------------:|:-------------------:|:--------------:|:----------------:|
-| Civilization VI | Hearts Of Iron 4 | Euro Truck Simulator 2 | Payday 2 |
+## Дневник
+
+То, что не попадает в коммиты: игры, переводы и наблюдения с конференций.
+
+<details>
+<summary><b>Моды, которые я переводил</b> — 4 жанра, 10+ игр</summary>
+
+<br>
+
+| Стратегии | Гранд-стратегии | Симуляторы | Другие жанры |
+|:---|:---|:---|:---|
+| Civilization VI | Hearts of Iron IV | Euro Truck Simulator 2 | Payday 2 |
 | Cities: Skylines | Crusader Kings III | ARK: Survival Evolved | Space Engineers |
-| Tropico серии | Europa Universalis IV |  |  |
-|  | Stellaris |  |  |
+| Tropico | Europa Universalis IV | | |
+| | Stellaris | | |
 
-#### 💻 **Освоение программирования (2022-н.в.)**
-```
-📊 Data Science → 🎨 Frontend → 🔧 Backend
-```
+Переводил интерфейсы, правил тексты и собирал локализации. Лучший тренажёр внимательности: одна пропущенная строка — и мод ломается.
 
-**Изучаю:**
-Python, C#, JavaScript, C++, SQL, PHP, 1C.
+</details>
 
+<details>
+<summary><b>Конференции 2025</b> — что я вынес</summary>
 
-#### 📚 **Курсы**
-- ✅ **Яндекс Практикум** — современные подходы к разработке
+<br>
 
-#### 🎪 **Участие в мероприятиях (2025)**
 | Мероприятие | Организатор | Формат |
-|:------------|:------------|:-------|
+|:---|:---|:---|
 | IT Talk | Сбер | Митап |
 | Kaspersky Industrial Cybersecurity Conference | Лаборатория Касперского | Конференция |
 | South HUB | IT-сообщество | Кэмп-конференция |
 
-#### 💭 **Впечатления от IT мероприятий**
 > Многие IT-мероприятия превратились в **театр формальностей**, где важнее пиджак спикера, чем содержание его доклада.
 
-#### 📌 **Выводы из опыта конференций:**
-```diff
-- Корпоративная пропаганда вместо технологий
-- Формальности вместо содержания
-- Поверхностность вместо глубины
+Ценность — в неформальных разговорах, знания — у практиков, инсайты — в обсуждениях после докладов.
 
-+ Ценность в неформальных встречах
-+ Знания в общении с практиками
-+ Инсайты в обсуждениях после докладов
-```
+</details>
 
-#### 🌱 **Принципы роста:**
-1. 📚 **Непрерывное обучение** — каждый день новая технология
-2. 🧠 **Критическое мышление** — анализ, а не принятие на веру
-3. 🔨 **Практическая ориентация** — проекты, а не сертификаты
-4. 🤝 **Сообщество** — обмен знаниями без границ
+> Учусь каждый день. Проверяю, а не верю. Делаю проекты, а не коллекционирую сертификаты. Делюсь тем, что понял.
 
+## Контакты
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <a href="https://t.me/DanyaDoma"><img src="assets/icons/telegram.svg" width="18" height="18" alt="Telegram"></a>&nbsp;
+  <a href="https://t.me/DanyaDoma">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@foreve4711"><img src="assets/icons/youtube.svg" width="18" height="18" alt="YouTube"></a>&nbsp;
+  <a href="https://www.youtube.com/@foreve4711">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/DanyaDoma"><img src="assets/icons/github.svg" width="18" height="18" alt="GitHub"></a>&nbsp;
+  <a href="https://github.com/DanyaDoma">GitHub</a>
 </p>
-<h3 align="left">🛠 Технологии:</h3>
 
-###
+<img src="assets/footer.svg" width="100%" alt="DanyaDoma — собрано вручную, 2026">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="assets/1s-logo.svg" height="40" alt="1C logo" />
-</div>
+<details>
+<summary>Не нажимай</summary>
+
+<br>
+
+Ты нажал. Уважаю. Первый код был на AHK — макрос для игры. С него всё началось, и обратно я не вернулся.
+
+</details>
