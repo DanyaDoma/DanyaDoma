@@ -8,15 +8,9 @@
 
 ## Избранное
 
-<a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">
-  <img src="assets/project.svg?v=3" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
-</a>
+<img src="assets/project.svg?v=3" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
 
-<p align="center">
-  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">репозиторий</a> ·
-  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/blob/main/db/dump/shoe_store.sql">дамп базы</a> ·
-  <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/tree/main/docs">документация</a>
-</p>
+<p align="center"><sub>Учебный проект сдавался заказчику, репозиторий приватный. Код, дамп базы и документацию показываю по запросу.</sub></p>
 
 <p align="center">
   Эксперименты:
