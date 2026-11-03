@@ -49,7 +49,7 @@
   <g class="mono" font-size="14" fill="#AEB8C6">
     <text x="52" y="216">C# · WPF · .NET 10</text>
     <text x="52" y="244">MySQL 8 · схема и дамп</text>
-    <text x="52" y="272">роли, отчёты, CRUD</text>
+    <text x="52" y="272">роли, фильтры, CRUD</text>
   </g>
 
   <g>
@@ -79,63 +79,59 @@
 
   <!-- tabs -->
   <g class="sans" font-size="13">
-    <text x="458" y="142" fill="#F4F0E8">Заказы</text>
-    <text x="528" y="142" fill="#7F8A99">Товары</text>
+    <text x="458" y="142" fill="#7F8A99">Заказы</text>
+    <text x="528" y="142" fill="#F4F0E8">Товары</text>
     <text x="602" y="142" fill="#7F8A99">Пользователи</text>
-    <text x="706" y="142" fill="#7F8A99">Отчёты</text>
   </g>
-  <line x1="458" y1="150" x2="504" y2="150" stroke="#E28A3C" stroke-width="2"/>
+  <line x1="528" y1="150" x2="578" y2="150" stroke="#E28A3C" stroke-width="2"/>
 
   <!-- filters -->
   <g class="mono" font-size="10.5">
-    <rect x="458" y="160" width="44" height="22" rx="11" fill="#241A10" stroke="#7A4A1E"/>
-    <text x="480" y="175" text-anchor="middle" fill="#F0A35E">ВСЕ</text>
-    <rect x="508" y="160" width="76" height="22" rx="11" fill="#141C26" stroke="#2C3746"/>
-    <text x="546" y="175" text-anchor="middle" fill="#8C99A9">В РАБОТЕ</text>
-    <rect x="590" y="160" width="82" height="22" rx="11" fill="#141C26" stroke="#2C3746"/>
-    <text x="631" y="175" text-anchor="middle" fill="#8C99A9">ВЫПОЛНЕНЫ</text>
+    <rect x="458" y="163" width="12" height="12" rx="3" fill="#241A10" stroke="#7A4A1E"/>
+    <path d="M460.5 169l2 2.4 4-5" fill="none" stroke="#F0A35E" stroke-width="1.6"/>
+    <text x="476" y="173" fill="#F0A35E">только со скидкой</text>
   </g>
-  <rect x="760" y="160" width="176" height="22" rx="11" fill="#0D141C" stroke="#2C3746"/>
-  <circle cx="774" cy="171" r="4" fill="none" stroke="#5A6779"/>
-  <line x1="777" y1="174" x2="780" y2="177" stroke="#5A6779"/>
-  <text x="788" y="175" class="mono" font-size="10.5" fill="#5A6779">поиск по клиенту…</text>
+  <rect x="700" y="160" width="236" height="22" rx="11" fill="#0D141C" stroke="#2C3746"/>
+  <circle cx="714" cy="171" r="4" fill="none" stroke="#5A6779"/>
+  <line x1="717" y1="174" x2="720" y2="177" stroke="#5A6779"/>
+  <text x="728" y="175" class="mono" font-size="10.5" fill="#5A6779">поиск по наименованию…</text>
 
   <!-- table head -->
   <rect x="450" y="190" width="488" height="24" fill="#111925"/>
   <g class="mono" font-size="9.5" letter-spacing="1" fill="#6E7B8B">
-    <text x="462" y="206">ТОВАР</text>
-    <text x="690" y="206">ЦЕНА</text>
+    <text x="462" y="206">НАИМЕНОВАНИЕ</text>
+    <text x="690" y="206">ЦЕНА, ₽</text>
     <text x="772" y="206">СКИДКА</text>
-    <text x="862" y="206">СКЛАД</text>
+    <text x="862" y="206">ОСТАТОК</text>
   </g>
 
   <!-- rows -->
   <g class="sans" font-size="13">
     <rect x="450" y="214" width="488" height="35" fill="#131C27"/>
-    <text x="462" y="236" fill="#DDE3EA">Кроссовки Urban</text>
-    <text x="690" y="236" fill="#C9D2DC">4 890 ₽</text>
-    <text x="772" y="236" fill="#F0A35E">−5%</text>
-    <text x="862" y="236" fill="#C9D2DC">12</text>
+    <text x="462" y="236" fill="#DDE3EA">Ботинки · A112T4</text>
+    <text x="690" y="236" fill="#C9D2DC">4 990</text>
+    <text x="772" y="236" fill="#F0A35E">3%</text>
+    <text x="862" y="236" fill="#C9D2DC">6</text>
 
-    <text x="462" y="271" fill="#C9D2DC">Ботинки Trail</text>
-    <text x="690" y="271" fill="#C9D2DC">7 200 ₽</text>
-    <text x="772" y="271" fill="#5A6779">—</text>
-    <text x="862" y="271" fill="#C9D2DC">3</text>
+    <text x="462" y="271" fill="#C9D2DC">Ботинки · F635R4</text>
+    <text x="690" y="271" fill="#C9D2DC">3 244</text>
+    <text x="772" y="271" fill="#F0A35E">2%</text>
+    <text x="862" y="271" fill="#C9D2DC">13</text>
 
-    <text x="462" y="306" fill="#C9D2DC">Лоферы Classic</text>
-    <text x="690" y="306" fill="#C9D2DC">5 400 ₽</text>
-    <text x="772" y="306" fill="#F0A35E">−15%</text>
-    <text x="862" y="306" fill="#FF7A6B">0</text>
+    <text x="462" y="306" fill="#C9D2DC">Туфли · H782T5</text>
+    <text x="690" y="306" fill="#C9D2DC">4 499</text>
+    <text x="772" y="306" fill="#F0A35E">4%</text>
+    <text x="862" y="306" fill="#C9D2DC">5</text>
 
-    <text x="462" y="341" fill="#C9D2DC">Сандалии Air</text>
-    <text x="690" y="341" fill="#C9D2DC">2 300 ₽</text>
-    <text x="772" y="341" fill="#5A6779">—</text>
-    <text x="862" y="341" fill="#C9D2DC">8</text>
+    <text x="462" y="341" fill="#C9D2DC">Кеды · S634B5</text>
+    <text x="690" y="341" fill="#C9D2DC">5 500</text>
+    <text x="772" y="341" fill="#F0A35E">3%</text>
+    <text x="862" y="341" fill="#FF7A6B">0</text>
 
-    <text x="462" y="376" fill="#C9D2DC">Кеды Street</text>
-    <text x="690" y="376" fill="#C9D2DC">3 950 ₽</text>
-    <text x="772" y="376" fill="#F0A35E">−10%</text>
-    <text x="862" y="376" fill="#C9D2DC">2</text>
+    <text x="462" y="376" fill="#C9D2DC">Полуботинки · J384T6</text>
+    <text x="690" y="376" fill="#C9D2DC">3 800</text>
+    <text x="772" y="376" fill="#F0A35E">2%</text>
+    <text x="862" y="376" fill="#C9D2DC">16</text>
   </g>
   <line x1="450" y1="249" x2="938" y2="249" stroke="#1B2531"/>
   <line x1="450" y1="284" x2="938" y2="284" stroke="#1B2531"/>

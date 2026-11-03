@@ -1,29 +1,15 @@
 <div align="center">
-  <img src="assets/hero.svg?v=2" width="100%" alt="DanyaDoma — инженерный журнал. Данила, разработчик: C#, .NET, WPF, MySQL">
+  <img src="assets/hero.svg?v=3" width="100%" alt="Danila — профиль игрока. Пишу код, ловлю баги. Текущий квест: поймать баг до релиза">
 </div>
 
-<div align="center">
-  <img src="assets/ticker.svg?v=2" width="100%" alt="Пишу на C#, собираю WPF, проверяю тестами, чиню базы, не верю на слово, документирую">
-</div>
+## Технологии
 
-<p align="center">
-  <a href="#сейчас"><kbd>сейчас</kbd></a>&nbsp;
-  <a href="#избранное"><kbd>избранное</kbd></a>&nbsp;
-  <a href="#лаборатория"><kbd>лаборатория</kbd></a>&nbsp;
-  <a href="#журнал-сборки"><kbd>журнал</kbd></a>&nbsp;
-  <a href="#стек"><kbd>стек</kbd></a>&nbsp;
-  <a href="#путь"><kbd>путь</kbd></a>&nbsp;
-  <a href="#контакты"><kbd>контакты</kbd></a>
-</p>
-
-## Сейчас
-
-<img src="assets/now.svg?v=2" width="100%" alt="Сейчас: проект ООО «Обувь» на WPF, .NET 10 и MySQL 8. Фокус — C# и данные. Вне кода — моды и стратегии">
+<img src="assets/tech.svg?v=3" width="100%" alt="Технологии: C#, C++, Python, JavaScript, MySQL, PostgreSQL, Docker, Qt, PHP, Excel, Git, AHK">
 
 ## Избранное
 
 <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi">
-  <img src="assets/project.svg?v=2" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
+  <img src="assets/project.svg?v=3" width="100%" alt="ООО «Обувь» — система учёта заказов на WPF: 12 таблиц, 28 тестов, задания 1–4">
 </a>
 
 <p align="center">
@@ -32,11 +18,8 @@
   <a href="https://github.com/DanyaDoma/ooo-obuv-magazin-obuvi/tree/main/docs">документация</a>
 </p>
 
-## Лаборатория
-
-<img src="assets/lab.svg?v=2" width="100%" alt="Пять публичных UI-экспериментов: ProductCard, 3DTiles, IconTitle, LoginMenu, Shop-ModMenu — HTML, CSS, JavaScript">
-
 <p align="center">
+  Эксперименты:
   <a href="https://github.com/DanyaDoma/ProductCard">ProductCard</a> ·
   <a href="https://github.com/DanyaDoma/3DTiles">3DTiles</a> ·
   <a href="https://github.com/DanyaDoma/IconTitle">IconTitle</a> ·
@@ -44,21 +27,29 @@
   <a href="https://github.com/DanyaDoma/Shop-ModMenu">Shop-ModMenu</a>
 </p>
 
-## Журнал сборки
+## Игры
 
-<img src="assets/terminal.svg?v=2" width="100%" alt="Терминал: сборка без ошибок, 28 из 28 тестов, импорт дампа MySQL и запуск WPF под ролью администратора">
+<img src="assets/games.svg?v=3" width="100%" alt="Игры: Civilization VI, Hearts of Iron IV, Euro Truck Simulator 2, Cities Skylines. Плюс моды и локализации">
 
-## Стек
+<div align="center">
+  <img src="assets/bug-hunter.gif?v=3" width="750" height="270" alt="Bug Hunter — пиксельная мини-игра: охотник пробегает ночной город и ловит четырёх багов, счёт 04, надпись LEVEL CLEAR">
+</div>
 
-<img src="assets/stack.svg?v=2" width="100%" alt="Рабочий набор: C#, .NET и WPF, MySQL, SQL, PostgreSQL, Python, JavaScript, C++, PHP, 1C, Git, AHK">
+<p align="center"><sub>Собран сам: спрайты нарисованы попиксельно, 60 кадров, GIF отдаётся прямо из репозитория.</sub></p>
 
-## Путь
+## Активность
 
-<img src="assets/path.svg?v=2" width="100%" alt="Хронология: AHK в 2019, моды в 2021, первый код в 2022, C# в 2023, 1C в 2024, Практикум в 2025, WPF и MySQL в 2026">
+<img src="assets/activity.svg?v=3" width="100%" alt="График публичной активности на GitHub за 12 месяцев: 103 вклада">
 
-## Дневник
+## На связи
 
-То, что не попадает в коммиты: игры, переводы и наблюдения с конференций.
+<p align="center">
+  <a href="https://t.me/DanyaDoma"><img src="assets/social-telegram.svg?v=3" width="300" height="78" alt="Telegram: DanyaDoma"></a>
+  <a href="https://www.youtube.com/@foreve4711"><img src="assets/social-youtube.svg?v=3" width="300" height="78" alt="YouTube: foreve4711"></a>
+  <a href="https://github.com/DanyaDoma"><img src="assets/social-github.svg?v=3" width="300" height="78" alt="GitHub: DanyaDoma"></a>
+</p>
+
+## Вне кода
 
 <details>
 <summary><b>Моды, которые я переводил</b> — 4 жанра, 10+ игр</summary>
@@ -93,20 +84,7 @@
 
 </details>
 
-> Учусь каждый день. Проверяю, а не верю. Делаю проекты, а не коллекционирую сертификаты. Делюсь тем, что понял.
-
-## Контакты
-
-<p align="center">
-  <a href="https://t.me/DanyaDoma"><img src="assets/icons/telegram.svg" width="18" height="18" alt="Telegram"></a>&nbsp;
-  <a href="https://t.me/DanyaDoma">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@foreve4711"><img src="assets/icons/youtube.svg" width="18" height="18" alt="YouTube"></a>&nbsp;
-  <a href="https://www.youtube.com/@foreve4711">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/DanyaDoma"><img src="assets/icons/github.svg" width="18" height="18" alt="GitHub"></a>&nbsp;
-  <a href="https://github.com/DanyaDoma">GitHub</a>
-</p>
-
-<img src="assets/footer.svg?v=2" width="100%" alt="DanyaDoma — собрано вручную, 2026">
+<img src="assets/footer.svg?v=3" width="100%" alt="DanyaDoma — собрано вручную, 2026">
 
 <details>
 <summary>Не нажимай</summary>
